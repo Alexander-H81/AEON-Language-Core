@@ -1,0 +1,66 @@
+{
+  "Æ-AMI": {
+    "word": "Æ-AMI",
+    "meaning": "Friendship",
+    "keywords": [
+      "connection",
+      "kindness",
+      "bond"
+    ]
+  },
+  "Æ-COR": {
+    "word": "Æ-COR",
+    "meaning": "Heart",
+    "keywords": [
+      "center",
+      "emotion",
+      "source"
+    ]
+  },
+  "Æ-ORD": {
+    "word": "Æ-ORD",
+    "meaning": "Order",
+    "keywords": [
+      "structure",
+      "balance",
+      "logic"
+    ]
+  },
+  "Æ-TRU": {
+    "word": "Æ-TRU",
+    "meaning": "Trust",
+    "keywords": [
+      "confidence",
+      "security",
+      "relationship"
+    ]
+  },
+  "Æ-VER": {
+    "word": "Æ-VER",
+    "meaning": "Truth",
+    "keywords": [
+      "clarity",
+      "authenticity",
+      "fact"
+    ]
+  },
+  "Æ-PAZ": {
+    "word": "Æ-PAZ",
+    "meaning": "Peace",
+    "keywords": [
+      "harmony",
+      "justice",
+      "non-violence"
+    ]
+  },
+  "Æ-ALEX": {
+    "word": "Æ-ALEX",
+    "meaning": "Symbolic guardian of equilibrium",
+    "keywords": [
+      "neutral",
+      "protection",
+      "system"
+    ],
+    "system_reserved": true
+  }
+}
