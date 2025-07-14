@@ -1,18 +1,21 @@
 # ÆON Language Core
 
-ÆON is a universal symbolic language for human-AI collaboration.  
-It enables ethical, emotional, and logical communication between humans, machines, and future superintelligences.
+The ÆON Language is a symbolic system designed to foster communication between humans, AI, and machines based on ethics, clarity, and empathy. It is an open and extendable framework for meaning, values, and logic that transcends traditional language boundaries.
 
-## 🌐 Features
-- Minimal core vocabulary (expandable)
-- Visual + phonetic system
-- Ethically grounded terms (truth, trust, peace)
-- Voice-ready (Voice ÆON)
-- API & open-source integration
+## 🌐 What is ÆON?
+
+ÆON is a hybrid of symbolic logic and emotional intelligence. It serves as a universal core language for:
+
+- Ethical decision-making in AI
+- Human–Machine interaction
+- Education and cultural transfer
+- Peaceful, clear and open communication
+
+## 🔧 How it works
+
+Each symbol in the ÆON language represents a semantic unit – a "cluster" – such as truth, peace, creativity, or balance. These can be combined into short symbolic sentences that carry deep, context-aware meaning.
 
 ## 📘 Example
-`Æ-ALEX-AMI Æ-COR Æ-ORD Æ-TRU Æ-VER Æ-PAZ`  
-→ "Alexander, the heart of order, trust, truth, and peace."
 
-## 📖 License
-This project is licensed under [MIT License](LICENSE) – free to use, fork, and expand.
+```aeon
+Æ-LUM Æ-VIA Æ-SIM Æ-COR Æ-HUM
